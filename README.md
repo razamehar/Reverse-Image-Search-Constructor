@@ -42,7 +42,54 @@ The ResNet50 model is pre-trained on the ImageNet dataset and is used here to fi
 
 ## Similarity Search with KNN
 
+### Nearest neighbors return visually similar images
+<div>
+  <img src="docs/KNN1.png" style="max-width: 100%";>
+  <img src="docs/KNN2.png" style="max-width: 100%";>
+  <img src="docs/KNN3.png" style="max-width: 100%";>
+  <img src="docs/KNN4.png" style="max-width: 100%";>
+  <img src="docs/KNN5.png" style="max-width: 100%";>
+  <img src="docs/KNN6.png" style="max-width: 100%";>  
+</div>
+
+### t-SNE visualization of image features
+<div>
+  <img src="docs/KNN-tsne.png" style="max-width: 100%";>
+</div>
+
+### t-SNE visualization of image clusters
+<div>
+  <img src="docs/KNN-tsne2.png" style="max-width: 100%";>
+</div>
+
+### t-SNE visualization of tiled images
+<div>
+  <img src="docs/KNN-tsne3.png" style="max-width: 100%";>
+</div>
 
 ## Similarity Search with KNN with PCA
+<div>
+  <img src="docs/p1.png" style="max-width: 100%";>
+  <img src="docs/p2.png" style="max-width: 100%";>
+  <img src="docs/p3.png" style="max-width: 100%";>
+  <img src="docs/p4.png" style="max-width: 100%";>
+  <img src="docs/p5.png" style="max-width: 100%";>
+  <img src="docs/p6.png" style="max-width: 100%";>  
+</div>
+
+### t-SNE visualization of image features
+<div>
+  <img src="docs/ptsne.png" style="max-width: 100%";>
+</div>
+
+### t-SNE visualization of image clusters
+<div>
+  <img src="docs/ptsne2.png" style="max-width: 100%";>
+</div>
+
+### t-SNE visualization of tiled images
+<div>
+  <img src="docs/ptsne3.png" style="max-width: 100%";>
+</div>
 
 ## Similarity Search with ANNOY
