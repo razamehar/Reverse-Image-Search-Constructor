@@ -95,7 +95,7 @@ The ResNet50 model is pre-trained on the ImageNet dataset and is used here to fi
 </div>
 
 ## Similarity Search with ANNOY
-### Nearest neighbors return visually similar images
+### ANNOY returns visually similar images
 <div>
   <img src="docs/a1.png" style="max-width: 100%";>
   <img src="docs/a2.png" style="max-width: 100%";>
@@ -104,4 +104,13 @@ The ResNet50 model is pre-trained on the ImageNet dataset and is used here to fi
   <img src="docs/a5.png" style="max-width: 100%";>
   <img src="docs/a6.png" style="max-width: 100%";>  
 </div>
+
+## Data Sources
+https://drive.google.com/uc?id=137RyRjvTBkBiIfeYBNZBtViDHQ6_Ewsp
+
+## License
+This project is licensed under the Raza Mehar License. See the LICENSE.md file for details.
+
+## Contact
+For any questions or clarifications, please contact Raza Mehar at [raza.mehar@gmail.com].
 
