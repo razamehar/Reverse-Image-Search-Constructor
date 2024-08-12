@@ -68,6 +68,8 @@ The ResNet50 model is pre-trained on the ImageNet dataset and is used here to fi
 </div>
 
 ## Similarity Search with KNN with PCA
+
+### Nearest neighbors return visually similar images
 <div>
   <img src="docs/p1.png" style="max-width: 100%";>
   <img src="docs/p2.png" style="max-width: 100%";>
@@ -93,3 +95,13 @@ The ResNet50 model is pre-trained on the ImageNet dataset and is used here to fi
 </div>
 
 ## Similarity Search with ANNOY
+### Nearest neighbors return visually similar images
+<div>
+  <img src="docs/a1.png" style="max-width: 100%";>
+  <img src="docs/a2.png" style="max-width: 100%";>
+  <img src="docs/a3.png" style="max-width: 100%";>
+  <img src="docs/a4.png" style="max-width: 100%";>
+  <img src="docs/a5.png" style="max-width: 100%";>
+  <img src="docs/a6.png" style="max-width: 100%";>  
+</div>
+
